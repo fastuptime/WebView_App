@@ -1,6 +1,6 @@
 # WebView Application For Computer
 ---
-<h1 align="center">[![Masaüstü WebView Uygulaması Güncel!](https://img.youtube.com/vi/xEJ8_ixpl9U/0.jpg)](https://www.youtube.com/watch?v=xEJ8_ixpl9U "Masaüstü WebView Uygulaması Güncel!")</h1>
+[![Masaüstü WebView Uygulaması Güncel!](https://img.youtube.com/vi/xEJ8_ixpl9U/0.jpg)](https://www.youtube.com/watch?v=xEJ8_ixpl9U "Masaüstü WebView Uygulaması Güncel!")
 
 ## Satın Almak İçin İletişim & Uygulama Hakkında
 ---
